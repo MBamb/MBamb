@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Max and I like coding, gaming and photography.
 <!--
 **MBamb/MBamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
